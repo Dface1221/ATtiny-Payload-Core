@@ -88,11 +88,9 @@ void printProgmem(const char *p) {            // 10B RAM buffer
 
 ---
 
-##  **Demo Video**
-```
-[Embed your 30s demo here]
-Windows → USB plug → Defender OFF → PS> whoami → Shell!
-```
+##  **Live Demo**
+
+[![ATtiny Payload Core Demo](https://img.youtube.com/vi/yLi2vRqrI8E/maxresdefault.jpg)](https://www.youtube.com/watch?v=yLi2vRqrI8E)
 
 ---
 
