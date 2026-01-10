@@ -88,7 +88,7 @@ void printProgmem(const char *p) {            // 10B RAM buffer
 
 ---
 
-##  **Live Demo**
+##  **Live Demo** Click on the image to watch the demo.
 
 [![ATtiny Payload Core Demo](https://img.youtube.com/vi/yLi2vRqrI8E/maxresdefault.jpg)](https://www.youtube.com/watch?v=yLi2vRqrI8E)
 
