@@ -22,7 +22,7 @@ PROGMEM Payload Engine → 16x CAPACITY
 | Metric | Traditional | **This Framework** |
 |--------|-------------|-------------------|
 | **RAM Usage** | 85%+ (FAIL) | **12%** (150B) |
-| **Payload Size** | 500 chars | **8,000+ chars** |
+| **Payload Size** | 500 chars | **5,000+ chars** |
 | **Success Rate** | 40% | **100%** |
 | **Flash Usage** | N/A | **2.5KB** |
 
